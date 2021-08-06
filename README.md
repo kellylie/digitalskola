@@ -9,6 +9,9 @@ My final project on digitalskola is from kaggle [stroke prediction dataset](http
 - Modelling
 - Choose Best model
 
+# Data we used
+- [Dataset stroke](https://github.com/kellylie/digitalskola/blob/main/healthcare-dataset-stroke-data.csv)
+
 # Team Members
 - [Kelly](https://github.com/kellylie)
 - Krista Yuda 
